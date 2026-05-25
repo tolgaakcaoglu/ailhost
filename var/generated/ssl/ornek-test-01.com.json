@@ -1,0 +1,6 @@
+{
+    "domain": "ornek-test-01.com",
+    "provider": "letsencrypt",
+    "status": "issued",
+    "issued_at": "2026-05-16T23:14:25+00:00"
+}

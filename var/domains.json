@@ -1,0 +1,29 @@
+[
+    {
+        "id": "c29975f6a6176841",
+        "site_id": "7f3d24dd3bca2334",
+        "domain": "ornek-test-01.com",
+        "type": "primary",
+        "ssl_status": "pending",
+        "dns_status": "pending",
+        "created_at": "2026-05-16T23:13:25+00:00"
+    },
+    {
+        "id": "3f6c0c6010d8cba1",
+        "site_id": "89b410f7b09dfce1",
+        "domain": "hazirkurumsalsite.com.tr",
+        "type": "primary",
+        "ssl_status": "pending",
+        "dns_status": "pending",
+        "created_at": "2026-05-17T04:10:44+00:00"
+    },
+    {
+        "id": "66eaf740cd174088",
+        "site_id": "6d4f8c5e1cea44bc",
+        "domain": "example.com",
+        "type": "primary",
+        "ssl_status": "pending",
+        "dns_status": "pending",
+        "created_at": "2026-05-18T20:56:10+00:00"
+    }
+]

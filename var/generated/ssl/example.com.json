@@ -1,0 +1,6 @@
+{
+    "domain": "example.com",
+    "provider": "letsencrypt",
+    "status": "issued",
+    "issued_at": "2026-05-18T20:56:10+00:00"
+}

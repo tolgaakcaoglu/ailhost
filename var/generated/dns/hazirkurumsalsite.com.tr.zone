@@ -1,0 +1,11 @@
+$TTL 3600
+@   IN SOA ns1.hazirkurumsalsite.com.tr. admin.hazirkurumsalsite.com.tr. (
+        2026051701
+        3600
+        900
+        604800
+        86400
+)
+@   IN NS  ns1.hazirkurumsalsite.com.tr.
+@   IN A   95.70.159.147
+www IN A   95.70.159.147

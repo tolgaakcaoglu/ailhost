@@ -1,0 +1,820 @@
+[
+    {
+        "id": "6c92e30f6c3f7ecb",
+        "actor_email": "aildev@outlook.com",
+        "action": "install.admin.saved",
+        "resource_type": "installer",
+        "resource_id": "admin",
+        "metadata": [],
+        "created_at": "2026-05-16T23:16:39+00:00"
+    },
+    {
+        "id": "54ac30cfdbf2f81e",
+        "actor_email": "aildev@outlook.com",
+        "action": "install.services.saved",
+        "resource_type": "installer",
+        "resource_id": "services",
+        "metadata": [],
+        "created_at": "2026-05-16T23:21:42+00:00"
+    },
+    {
+        "id": "8eed9f21c94fec05",
+        "actor_email": "aildev@outlook.com",
+        "action": "install.locked",
+        "resource_type": "installer",
+        "resource_id": "state",
+        "metadata": [],
+        "created_at": "2026-05-16T23:21:43+00:00"
+    },
+    {
+        "id": "b75e0201eb862c9a",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.login.success",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": [],
+        "created_at": "2026-05-17T03:01:20+00:00"
+    },
+    {
+        "id": "bf02fe6b6b8443a9",
+        "actor_email": "aildev@outlook.com",
+        "action": "site.create",
+        "resource_type": "site",
+        "resource_id": "89b410f7b09dfce1",
+        "metadata": {
+            "domain": "hazirkurumsalsite.com.tr"
+        },
+        "created_at": "2026-05-17T04:10:44+00:00"
+    },
+    {
+        "id": "81974428bef497a2",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.login.success",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": {
+            "ip": "127.0.0.1"
+        },
+        "created_at": "2026-05-17T10:11:54+00:00"
+    },
+    {
+        "id": "6b50bece962f372e",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.login.success",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": {
+            "ip": "127.0.0.1"
+        },
+        "created_at": "2026-05-17T14:54:35+00:00"
+    },
+    {
+        "id": "1f0fc2d3684c07f6",
+        "actor_email": "aildev@outlook.com",
+        "action": "file.upload_failed",
+        "resource_type": "file",
+        "resource_id": "",
+        "metadata": [],
+        "created_at": "2026-05-17T15:27:27+00:00"
+    },
+    {
+        "id": "44e4d8fcd1c1c745",
+        "actor_email": "aildev@outlook.com",
+        "action": "file.upload_failed",
+        "resource_type": "file",
+        "resource_id": "",
+        "metadata": [],
+        "created_at": "2026-05-17T15:28:36+00:00"
+    },
+    {
+        "id": "4e435d02d67d220f",
+        "actor_email": "aildev@outlook.com",
+        "action": "wp.security.scan_ok",
+        "resource_type": "wordpress",
+        "resource_id": "7f3d24dd3bca2334",
+        "metadata": {
+            "critical_count": 0,
+            "score": 85
+        },
+        "created_at": "2026-05-17T15:51:41+00:00"
+    },
+    {
+        "id": "8e1e7f424caf6ab8",
+        "actor_email": "aildev@outlook.com",
+        "action": "wp.staging.create",
+        "resource_type": "wordpress",
+        "resource_id": "7f3d24dd3bca2334",
+        "metadata": [],
+        "created_at": "2026-05-17T15:52:10+00:00"
+    },
+    {
+        "id": "24a8701df460f509",
+        "actor_email": "",
+        "action": "install.settings.saved",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T01:24:16+00:00"
+    },
+    {
+        "id": "251decf1945b0060",
+        "actor_email": "",
+        "action": "install.settings.saved",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T01:25:09+00:00"
+    },
+    {
+        "id": "506917a568bd99a8",
+        "actor_email": "",
+        "action": "install.settings.saved",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T01:26:31+00:00"
+    },
+    {
+        "id": "b24bc9f0ba3788d7",
+        "actor_email": "",
+        "action": "install.settings.saved",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T01:44:47+00:00"
+    },
+    {
+        "id": "0c9ffd653f4c9d8c",
+        "actor_email": "",
+        "action": "install.settings.saved",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T01:49:23+00:00"
+    },
+    {
+        "id": "72936a10377fac61",
+        "actor_email": "",
+        "action": "install.settings.saved",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T01:53:35+00:00"
+    },
+    {
+        "id": "b9fde28723088e68",
+        "actor_email": "",
+        "action": "install.settings.saved",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T01:55:42+00:00"
+    },
+    {
+        "id": "25723ad9c40e690d",
+        "actor_email": "",
+        "action": "install.settings.save_failed",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T03:01:41+00:00"
+    },
+    {
+        "id": "53286de1b5afc00f",
+        "actor_email": "",
+        "action": "install.settings.save_failed",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T03:01:56+00:00"
+    },
+    {
+        "id": "acb9beb84d215c87",
+        "actor_email": "",
+        "action": "install.settings.save_failed",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T03:02:44+00:00"
+    },
+    {
+        "id": "743c831b688868c4",
+        "actor_email": "",
+        "action": "install.settings.save_failed",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T03:03:34+00:00"
+    },
+    {
+        "id": "5ac0bef722d2fe37",
+        "actor_email": "",
+        "action": "install.settings.save_failed",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T03:03:42+00:00"
+    },
+    {
+        "id": "dcedcd740e3375c2",
+        "actor_email": "",
+        "action": "install.settings.save_failed",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T03:04:06+00:00"
+    },
+    {
+        "id": "44ba901af01ba22b",
+        "actor_email": "",
+        "action": "install.settings.save_failed",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T03:09:30+00:00"
+    },
+    {
+        "id": "e9194cce3bd3e460",
+        "actor_email": "",
+        "action": "install.settings.saved",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T03:13:43+00:00"
+    },
+    {
+        "id": "ae060734081e1a9c",
+        "actor_email": "",
+        "action": "install.settings.saved",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T03:13:51+00:00"
+    },
+    {
+        "id": "7b7df5fe63ea5141",
+        "actor_email": "",
+        "action": "install.settings.saved",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T03:15:16+00:00"
+    },
+    {
+        "id": "0552fa5627f52d0d",
+        "actor_email": "",
+        "action": "install.settings.saved",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T03:15:45+00:00"
+    },
+    {
+        "id": "286759d8cf84d17f",
+        "actor_email": "aildev@outlook.com",
+        "action": "install.admin.saved",
+        "resource_type": "installer",
+        "resource_id": "admin",
+        "metadata": [],
+        "created_at": "2026-05-18T03:16:09+00:00"
+    },
+    {
+        "id": "e2ebb0ff612a53c3",
+        "actor_email": "aildev@outlook.com",
+        "action": "install.admin.saved",
+        "resource_type": "installer",
+        "resource_id": "admin",
+        "metadata": [],
+        "created_at": "2026-05-18T14:47:36+00:00"
+    },
+    {
+        "id": "5f1c298f114f03d0",
+        "actor_email": "",
+        "action": "install.settings.saved",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T15:00:26+00:00"
+    },
+    {
+        "id": "95191eca254e4b55",
+        "actor_email": "",
+        "action": "install.settings.saved",
+        "resource_type": "installer",
+        "resource_id": "settings",
+        "metadata": [],
+        "created_at": "2026-05-18T15:00:32+00:00"
+    },
+    {
+        "id": "2c786f9ed2e3ef40",
+        "actor_email": "aildev@outlook.com",
+        "action": "install.admin.saved",
+        "resource_type": "installer",
+        "resource_id": "admin",
+        "metadata": [],
+        "created_at": "2026-05-18T15:00:45+00:00"
+    },
+    {
+        "id": "f21c9ea998121647",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.login.success",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": {
+            "ip": "127.0.0.1"
+        },
+        "created_at": "2026-05-18T15:26:02+00:00"
+    },
+    {
+        "id": "703982036e015280",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.logout",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": {
+            "ip": "127.0.0.1"
+        },
+        "created_at": "2026-05-18T15:26:09+00:00"
+    },
+    {
+        "id": "efa272dba4b50efe",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.password_reset.requested",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": {
+            "ip": "127.0.0.1"
+        },
+        "created_at": "2026-05-18T15:29:33+00:00"
+    },
+    {
+        "id": "1e9bd441408643c6",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.login.success",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": {
+            "ip": "127.0.0.1"
+        },
+        "created_at": "2026-05-18T15:29:41+00:00"
+    },
+    {
+        "id": "dc67c41061c3e73f",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.login.success",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": {
+            "ip": "127.0.0.1"
+        },
+        "created_at": "2026-05-18T20:01:54+00:00"
+    },
+    {
+        "id": "606bab8fad68c248",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.package_install.requested",
+        "resource_type": "service",
+        "resource_id": "mariadb",
+        "metadata": [],
+        "created_at": "2026-05-18T20:33:38+00:00"
+    },
+    {
+        "id": "bff191e420aec59c",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "nginx",
+        "metadata": {
+            "action": "start"
+        },
+        "created_at": "2026-05-18T20:34:31+00:00"
+    },
+    {
+        "id": "6ea7a708440098d2",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "nginx",
+        "metadata": {
+            "action": "start"
+        },
+        "created_at": "2026-05-18T20:34:36+00:00"
+    },
+    {
+        "id": "cc6256546061dea2",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "nginx",
+        "metadata": {
+            "action": "stop"
+        },
+        "created_at": "2026-05-18T20:37:35+00:00"
+    },
+    {
+        "id": "976387efbbe0ada5",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "nginx",
+        "metadata": {
+            "action": "start"
+        },
+        "created_at": "2026-05-18T20:37:48+00:00"
+    },
+    {
+        "id": "3a45d0fa209789e9",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "nginx",
+        "metadata": {
+            "action": "restart"
+        },
+        "created_at": "2026-05-18T20:37:52+00:00"
+    },
+    {
+        "id": "ce0372ac7d7f1138",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.package_install.requested",
+        "resource_type": "service",
+        "resource_id": "mariadb",
+        "metadata": [],
+        "created_at": "2026-05-18T20:37:56+00:00"
+    },
+    {
+        "id": "c0beec3237358bf4",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "mariadb",
+        "metadata": {
+            "action": "start"
+        },
+        "created_at": "2026-05-18T20:40:56+00:00"
+    },
+    {
+        "id": "e6a1437d50b4c0b9",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "mariadb",
+        "metadata": {
+            "action": "stop"
+        },
+        "created_at": "2026-05-18T20:41:22+00:00"
+    },
+    {
+        "id": "5cf8c963c4c7ce24",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "mariadb",
+        "metadata": {
+            "action": "start"
+        },
+        "created_at": "2026-05-18T20:55:01+00:00"
+    },
+    {
+        "id": "28898e524360a7a0",
+        "actor_email": "aildev@outlook.com",
+        "action": "site.create",
+        "resource_type": "site",
+        "resource_id": "6d4f8c5e1cea44bc",
+        "metadata": {
+            "domain": "example.com",
+            "runtime": "php",
+            "web_server": "nginx",
+            "document_root": "\/var\/www\/example_com\/public_html",
+            "provision_dns": true,
+            "provision_ssl": true
+        },
+        "created_at": "2026-05-18T20:56:10+00:00"
+    },
+    {
+        "id": "08178e4def6c1c13",
+        "actor_email": "aildev@outlook.com",
+        "action": "file.upload",
+        "resource_type": "file",
+        "resource_id": "index.html",
+        "metadata": [],
+        "created_at": "2026-05-18T20:57:35+00:00"
+    },
+    {
+        "id": "96f06fc436ec257d",
+        "actor_email": "aildev@outlook.com",
+        "action": "file.upload",
+        "resource_type": "file",
+        "resource_id": "global.css",
+        "metadata": [],
+        "created_at": "2026-05-18T20:57:57+00:00"
+    },
+    {
+        "id": "aa82d122184b3513",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "mariadb",
+        "metadata": {
+            "action": "stop"
+        },
+        "created_at": "2026-05-18T22:22:27+00:00"
+    },
+    {
+        "id": "ba5b2937f45cf2ec",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "mariadb",
+        "metadata": {
+            "action": "start"
+        },
+        "created_at": "2026-05-18T22:22:32+00:00"
+    },
+    {
+        "id": "3a03976144ea5ac2",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "mariadb",
+        "metadata": {
+            "action": "stop"
+        },
+        "created_at": "2026-05-18T22:22:34+00:00"
+    },
+    {
+        "id": "e4adcf12086da5f7",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "mariadb",
+        "metadata": {
+            "action": "start"
+        },
+        "created_at": "2026-05-18T22:22:39+00:00"
+    },
+    {
+        "id": "3eef4022ba2360ea",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "mariadb",
+        "metadata": {
+            "action": "stop"
+        },
+        "created_at": "2026-05-18T22:22:42+00:00"
+    },
+    {
+        "id": "663910c0015753cc",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.package_remove.requested",
+        "resource_type": "service",
+        "resource_id": "mariadb",
+        "metadata": [],
+        "created_at": "2026-05-18T22:30:48+00:00"
+    },
+    {
+        "id": "37cfaac1792b278b",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "mariadb",
+        "metadata": {
+            "action": "start"
+        },
+        "created_at": "2026-05-18T22:31:22+00:00"
+    },
+    {
+        "id": "9c27df736decc545",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "mariadb",
+        "metadata": {
+            "action": "stop"
+        },
+        "created_at": "2026-05-18T22:32:12+00:00"
+    },
+    {
+        "id": "8463f88343736b0d",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.package_remove.requested",
+        "resource_type": "service",
+        "resource_id": "mariadb",
+        "metadata": [],
+        "created_at": "2026-05-18T22:32:15+00:00"
+    },
+    {
+        "id": "d23465fb69142372",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "mariadb",
+        "metadata": {
+            "action": "restart"
+        },
+        "created_at": "2026-05-18T22:46:38+00:00"
+    },
+    {
+        "id": "b3f4d9aa22619841",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "mariadb",
+        "metadata": {
+            "action": "stop"
+        },
+        "created_at": "2026-05-18T23:18:20+00:00"
+    },
+    {
+        "id": "fcb1994fb11d18a0",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.logout",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": {
+            "ip": "127.0.0.1"
+        },
+        "created_at": "2026-05-18T23:59:20+00:00"
+    },
+    {
+        "id": "7016093b41737241",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.login.success",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": {
+            "ip": "127.0.0.1"
+        },
+        "created_at": "2026-05-18T23:59:26+00:00"
+    },
+    {
+        "id": "4f0ed23e2ab42251",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.logout",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": {
+            "ip": "127.0.0.1"
+        },
+        "created_at": "2026-05-18T23:59:28+00:00"
+    },
+    {
+        "id": "e900ff4d4b1fc2d1",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.login.success",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": {
+            "ip": "127.0.0.1"
+        },
+        "created_at": "2026-05-18T23:59:35+00:00"
+    },
+    {
+        "id": "8f872707a06578aa",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.login.success",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": {
+            "ip": "127.0.0.1"
+        },
+        "created_at": "2026-05-19T01:22:27+00:00"
+    },
+    {
+        "id": "1707c707bf0077de",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.login.success",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": {
+            "ip": "127.0.0.1"
+        },
+        "created_at": "2026-05-20T04:34:01+00:00"
+    },
+    {
+        "id": "b3156c8ba4cb70e4",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.login.success",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": {
+            "ip": "127.0.0.1"
+        },
+        "created_at": "2026-05-20T07:43:40+00:00"
+    },
+    {
+        "id": "fe97d8fec83b8d4b",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.login.success",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": {
+            "ip": "127.0.0.1"
+        },
+        "created_at": "2026-05-20T08:22:16+00:00"
+    },
+    {
+        "id": "3675e9670ae432e3",
+        "actor_email": "aildev@outlook.com",
+        "action": "site.create_failed",
+        "resource_type": "site",
+        "resource_id": "\/test_site",
+        "metadata": {
+            "domain": "\/test_site",
+            "runtime": "php",
+            "web_server": "nginx",
+            "document_root": "\/var\/www\/\/test_site\/public_html",
+            "provision_dns": false,
+            "provision_ssl": false
+        },
+        "created_at": "2026-05-20T08:23:13+00:00"
+    },
+    {
+        "id": "c9c3c1cbdccfbc2a",
+        "actor_email": "aildev@outlook.com",
+        "action": "deploy.profile.save",
+        "resource_type": "site",
+        "resource_id": "7f3d24dd3bca2334",
+        "metadata": [],
+        "created_at": "2026-05-20T08:24:44+00:00"
+    },
+    {
+        "id": "1446c8b418b5c6df",
+        "actor_email": "aildev@outlook.com",
+        "action": "runtime.start_failed",
+        "resource_type": "site",
+        "resource_id": "89b410f7b09dfce1",
+        "metadata": [],
+        "created_at": "2026-05-20T08:25:44+00:00"
+    },
+    {
+        "id": "f9f0487d15d8b129",
+        "actor_email": "aildev@outlook.com",
+        "action": "wp.install",
+        "resource_type": "wordpress",
+        "resource_id": "89b410f7b09dfce1",
+        "metadata": [],
+        "created_at": "2026-05-20T08:26:13+00:00"
+    },
+    {
+        "id": "e7dc48edd816aa74",
+        "actor_email": "aildev@outlook.com",
+        "action": "wp.plugin.install",
+        "resource_type": "wordpress",
+        "resource_id": "89b410f7b09dfce1",
+        "metadata": [],
+        "created_at": "2026-05-20T08:27:05+00:00"
+    },
+    {
+        "id": "9fa16600e4cdb6cf",
+        "actor_email": "aildev@outlook.com",
+        "action": "wp.staging.create",
+        "resource_type": "wordpress",
+        "resource_id": "89b410f7b09dfce1",
+        "metadata": [],
+        "created_at": "2026-05-20T08:27:54+00:00"
+    },
+    {
+        "id": "6a60348138c121da",
+        "actor_email": "aildev@outlook.com",
+        "action": "wp.staging.sync_live",
+        "resource_type": "wordpress",
+        "resource_id": "89b410f7b09dfce1",
+        "metadata": [],
+        "created_at": "2026-05-20T08:28:13+00:00"
+    },
+    {
+        "id": "6ef2aedd552c9a2d",
+        "actor_email": "aildev@outlook.com",
+        "action": "auth.login.success",
+        "resource_type": "session",
+        "resource_id": "aildev@outlook.com",
+        "metadata": {
+            "ip": "127.0.0.1"
+        },
+        "created_at": "2026-05-20T23:24:54+00:00"
+    },
+    {
+        "id": "e5fa447c22fb4e89",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "php-fpm",
+        "metadata": {
+            "action": "start"
+        },
+        "created_at": "2026-05-20T23:33:10+00:00"
+    },
+    {
+        "id": "9a302e71ade2abf9",
+        "actor_email": "aildev@outlook.com",
+        "action": "service.control.requested",
+        "resource_type": "service",
+        "resource_id": "dns",
+        "metadata": {
+            "action": "start"
+        },
+        "created_at": "2026-05-20T23:33:18+00:00"
+    }
+]

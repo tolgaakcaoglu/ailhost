@@ -1,0 +1,18 @@
+[
+    {
+        "id": "d8e209df7e9c23d3",
+        "site_id": "7f3d24dd3bca2334",
+        "db_name": "demo_db1",
+        "db_user": "demo_user1",
+        "db_password_hash": "$2y$10$hLbMbZZ5BeI8Nx.38W8f6OwZQUxLbW1tJH\/v3v4r1O.e5W1\/5jLgK",
+        "created_at": "2026-05-16T23:36:43+00:00"
+    },
+    {
+        "id": "45ecc9e021e9e70f",
+        "site_id": "89b410f7b09dfce1",
+        "db_name": "hazirkurumsalsite__wp",
+        "db_user": "hazirkurumsalsite__u",
+        "db_password_hash": "$2y$10$NUkQpoXPu5.lZVzfWfDn7Osp2zYFy1xwphnN1yHoSO4PakLAzvo1q",
+        "created_at": "2026-05-20T08:26:13+00:00"
+    }
+]

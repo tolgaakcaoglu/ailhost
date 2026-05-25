@@ -1,0 +1,35 @@
+[
+    {
+        "id": "7f3d24dd3bca2334",
+        "domain": "ornek-test-01.com",
+        "document_root": "\/var\/www\/ornek-test-01_com\/public_html",
+        "web_server": "nginx",
+        "status": "active",
+        "server_ip": "95.70.159.147",
+        "created_at": "2026-05-16T23:13:25+00:00",
+        "updated_at": "2026-05-16T23:14:25+00:00"
+    },
+    {
+        "id": "89b410f7b09dfce1",
+        "domain": "hazirkurumsalsite.com.tr",
+        "document_root": "\/var\/www\/hazirkurumsalsite_com_tr\/public_html",
+        "web_server": "nginx",
+        "status": "active",
+        "server_ip": "95.70.159.147",
+        "created_at": "2026-05-17T04:10:44+00:00",
+        "updated_at": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "id": "6d4f8c5e1cea44bc",
+        "domain": "example.com",
+        "document_root": "\/var\/www\/example_com\/public_html",
+        "web_server": "nginx",
+        "runtime": "php",
+        "status": "active",
+        "server_ip": "127.0.0.1",
+        "provision_dns": true,
+        "provision_ssl": true,
+        "created_at": "2026-05-18T20:56:10+00:00",
+        "updated_at": "2026-05-18T20:56:10+00:00"
+    }
+]

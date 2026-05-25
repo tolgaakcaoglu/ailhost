@@ -1,0 +1,13 @@
+[
+    {
+        "id": "4f97e23038f5ba0f",
+        "email": "aildev@outlook.com",
+        "password_hash": "$2y$10$2pyt9Ng3NbDSpEW7Hzde..GEZ8s4WbYJqH85uHs1TEqrjBwi5Lp7G",
+        "role": "",
+        "active": true,
+        "created_at": "2026-05-16T23:16:39+00:00",
+        "updated_at": "2026-05-20T23:24:54+00:00",
+        "last_login_at": "2026-05-20T23:24:54+00:00",
+        "last_logout_at": "2026-05-18T23:59:28+00:00"
+    }
+]

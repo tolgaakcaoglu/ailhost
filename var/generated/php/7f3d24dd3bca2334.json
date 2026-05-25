@@ -1,0 +1,9 @@
+{
+    "site_id": "7f3d24dd3bca2334",
+    "php_version": "8.2",
+    "memory_limit": "384M",
+    "upload_max_filesize": "96M",
+    "max_execution_time": 180,
+    "pool_file": "\/home\/ail\/dev\/ailhost\/var\/generated\/php\/pools\/site_7f3d24dd3bca2334.conf",
+    "updated_at": "2026-05-16T23:39:44+00:00"
+}

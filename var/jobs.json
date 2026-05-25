@@ -1,0 +1,944 @@
+[
+    {
+        "id": "633d9fdd652c8774",
+        "type": "site_create",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "domain": "ornek-test-01.com",
+            "document_root": "\/var\/www\/ornek-test-01_com\/public_html",
+            "server_ip": "95.70.159.147",
+            "web_server": "nginx"
+        },
+        "attempts": 2,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-16T23:14:15+00:00",
+        "finished_at": "2026-05-16T23:14:25+00:00",
+        "error": null,
+        "created_at": "2026-05-16T23:13:25+00:00",
+        "updated_at": "2026-05-16T23:14:25+00:00"
+    },
+    {
+        "id": "9fae574fd943cb52",
+        "type": "domain_add",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "domain": "blog.ornek-test-01.com",
+            "server_ip": "95.70.159.147"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-16T23:16:47+00:00",
+        "finished_at": "2026-05-16T23:16:47+00:00",
+        "error": null,
+        "created_at": "2026-05-16T23:16:47+00:00",
+        "updated_at": "2026-05-16T23:16:47+00:00"
+    },
+    {
+        "id": "555bdcec785da3cb",
+        "type": "domain_delete",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "domain": "blog.ornek-test-01.com"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-16T23:17:13+00:00",
+        "finished_at": "2026-05-16T23:17:13+00:00",
+        "error": null,
+        "created_at": "2026-05-16T23:16:53+00:00",
+        "updated_at": "2026-05-16T23:17:13+00:00"
+    },
+    {
+        "id": "98fa6545504e98f5",
+        "type": "service_selection",
+        "status": "done",
+        "payload": {
+            "web_server": "nginx",
+            "dns_server": "bind",
+            "firewall": "firewalld"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-16T23:22:56+00:00",
+        "finished_at": "2026-05-16T23:22:56+00:00",
+        "error": null,
+        "created_at": "2026-05-16T23:21:42+00:00",
+        "updated_at": "2026-05-16T23:22:56+00:00"
+    },
+    {
+        "id": "5596d6e30ec77c97",
+        "type": "site_create",
+        "status": "done",
+        "payload": {
+            "site_id": "2d22b2ed53aac791",
+            "domain": "sil-test-01.com",
+            "document_root": "\/var\/www\/sil-test-01_com\/public_html",
+            "server_ip": "95.70.159.147",
+            "web_server": "nginx"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-16T23:22:56+00:00",
+        "finished_at": "2026-05-16T23:22:56+00:00",
+        "error": null,
+        "created_at": "2026-05-16T23:22:56+00:00",
+        "updated_at": "2026-05-16T23:22:56+00:00"
+    },
+    {
+        "id": "05678c2fe49ef50d",
+        "type": "site_delete",
+        "status": "done",
+        "payload": {
+            "site_id": "2d22b2ed53aac791",
+            "domain": "sil-test-01.com"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-16T23:23:04+00:00",
+        "finished_at": "2026-05-16T23:23:04+00:00",
+        "error": null,
+        "created_at": "2026-05-16T23:22:56+00:00",
+        "updated_at": "2026-05-16T23:23:04+00:00"
+    },
+    {
+        "id": "d6b47374215a0b60",
+        "type": "site_php_update",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "php_version": "8.3",
+            "memory_limit": "256M",
+            "upload_max_filesize": "64M",
+            "max_execution_time": 120
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-16T23:36:43+00:00",
+        "finished_at": "2026-05-16T23:36:43+00:00",
+        "error": null,
+        "created_at": "2026-05-16T23:36:43+00:00",
+        "updated_at": "2026-05-16T23:36:43+00:00"
+    },
+    {
+        "id": "2256661d7a26d4b8",
+        "type": "db_create",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "db_name": "demo_db1",
+            "db_user": "demo_user1"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-16T23:37:02+00:00",
+        "finished_at": "2026-05-16T23:37:02+00:00",
+        "error": null,
+        "created_at": "2026-05-16T23:36:43+00:00",
+        "updated_at": "2026-05-16T23:37:02+00:00"
+    },
+    {
+        "id": "4fe872655cd4b40a",
+        "type": "site_php_update",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "document_root": "\/var\/www\/ornek-test-01_com\/public_html",
+            "php_version": "8.2",
+            "memory_limit": "384M",
+            "upload_max_filesize": "96M",
+            "max_execution_time": 180
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-16T23:39:44+00:00",
+        "finished_at": "2026-05-16T23:39:44+00:00",
+        "error": null,
+        "created_at": "2026-05-16T23:39:44+00:00",
+        "updated_at": "2026-05-16T23:39:44+00:00"
+    },
+    {
+        "id": "94ab47647af54ac1",
+        "type": "wp_install",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "domain": "ornek-test-01.com",
+            "admin_user": "wpadmin",
+            "admin_password": "StrongPass123!",
+            "admin_email": "wpadmin@example.com"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-17T02:48:31+00:00",
+        "finished_at": "2026-05-17T02:48:31+00:00",
+        "error": null,
+        "created_at": "2026-05-17T02:48:31+00:00",
+        "updated_at": "2026-05-17T02:48:31+00:00"
+    },
+    {
+        "id": "f2e8c548d64c972e",
+        "type": "wp_plugin_install",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "plugin": "jetpack"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-17T02:48:31+00:00",
+        "finished_at": "2026-05-17T02:48:31+00:00",
+        "error": null,
+        "created_at": "2026-05-17T02:48:31+00:00",
+        "updated_at": "2026-05-17T02:48:31+00:00"
+    },
+    {
+        "id": "5881cb263148211e",
+        "type": "wp_theme_activate",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "theme": "astra"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-17T02:48:31+00:00",
+        "finished_at": "2026-05-17T02:48:31+00:00",
+        "error": null,
+        "created_at": "2026-05-17T02:48:31+00:00",
+        "updated_at": "2026-05-17T02:48:31+00:00"
+    },
+    {
+        "id": "431bd754f38fcd39",
+        "type": "wp_plugin_install",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "plugin": "jetpack"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-17T02:48:49+00:00",
+        "finished_at": "2026-05-17T02:48:49+00:00",
+        "error": null,
+        "created_at": "2026-05-17T02:48:49+00:00",
+        "updated_at": "2026-05-17T02:48:49+00:00"
+    },
+    {
+        "id": "c4e71d5e34a5d8bc",
+        "type": "wp_theme_activate",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "theme": "astra"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-17T02:48:49+00:00",
+        "finished_at": "2026-05-17T02:48:49+00:00",
+        "error": null,
+        "created_at": "2026-05-17T02:48:49+00:00",
+        "updated_at": "2026-05-17T02:48:49+00:00"
+    },
+    {
+        "id": "fcf7346c100c097a",
+        "type": "backup_create",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "backup_id": "a4b9d4085cf2075c",
+            "type": "full"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-17T02:51:23+00:00",
+        "finished_at": "2026-05-17T02:51:23+00:00",
+        "error": null,
+        "created_at": "2026-05-17T02:51:23+00:00",
+        "updated_at": "2026-05-17T02:51:23+00:00"
+    },
+    {
+        "id": "b8f2e6e9cf400d7b",
+        "type": "backup_create",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "backup_id": "b96ad8be3b69667d",
+            "type": "full"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-17T02:53:20+00:00",
+        "finished_at": "2026-05-17T02:53:20+00:00",
+        "error": null,
+        "created_at": "2026-05-17T02:53:20+00:00",
+        "updated_at": "2026-05-17T02:53:20+00:00"
+    },
+    {
+        "id": "a57f77d137691469",
+        "type": "backup_retention_cleanup",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "keep_last": 3
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-17T02:53:28+00:00",
+        "finished_at": "2026-05-17T02:53:28+00:00",
+        "error": null,
+        "created_at": "2026-05-17T02:53:20+00:00",
+        "updated_at": "2026-05-17T02:53:28+00:00"
+    },
+    {
+        "id": "e75fe2a31a116ec8",
+        "type": "backup_create",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "backup_id": "365d262c59a89c2d",
+            "type": "full"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T20:36:37+00:00",
+        "finished_at": "2026-05-18T20:36:37+00:00",
+        "error": null,
+        "created_at": "2026-05-17T03:41:09+00:00",
+        "updated_at": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "id": "41463a89d166e7b3",
+        "type": "wp_core_update",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T20:36:37+00:00",
+        "finished_at": "2026-05-18T20:36:37+00:00",
+        "error": null,
+        "created_at": "2026-05-17T03:41:40+00:00",
+        "updated_at": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "id": "c0f86294b66452da",
+        "type": "site_create",
+        "status": "done",
+        "payload": {
+            "site_id": "89b410f7b09dfce1",
+            "domain": "hazirkurumsalsite.com.tr",
+            "document_root": "\/var\/www\/hazirkurumsalsite_com_tr\/public_html",
+            "server_ip": "95.70.159.147",
+            "web_server": "nginx"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T20:36:37+00:00",
+        "finished_at": "2026-05-18T20:36:37+00:00",
+        "error": null,
+        "created_at": "2026-05-17T04:10:44+00:00",
+        "updated_at": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "id": "f5f8b8b2308cf783",
+        "type": "wp_staging_create",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "domain": "ornek-test-01.com"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T20:36:37+00:00",
+        "finished_at": "2026-05-18T20:36:37+00:00",
+        "error": null,
+        "created_at": "2026-05-17T15:52:10+00:00",
+        "updated_at": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "id": "67861f0b5b3c8e9e",
+        "type": "install_package",
+        "status": "done",
+        "payload": {
+            "package": "mariadb",
+            "service": "mariadb",
+            "source": "dashboard"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T20:36:37+00:00",
+        "finished_at": "2026-05-18T20:36:37+00:00",
+        "error": null,
+        "created_at": "2026-05-18T20:33:38+00:00",
+        "updated_at": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "id": "d0a1a7c2e5b89ed6",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "nginx",
+            "action": "start"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T20:36:37+00:00",
+        "finished_at": "2026-05-18T20:36:37+00:00",
+        "error": null,
+        "created_at": "2026-05-18T20:34:31+00:00",
+        "updated_at": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "id": "99052de16646d9e0",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "nginx",
+            "action": "start"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T20:36:37+00:00",
+        "finished_at": "2026-05-18T20:36:37+00:00",
+        "error": null,
+        "created_at": "2026-05-18T20:34:36+00:00",
+        "updated_at": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "id": "c4a2052c47c0cfa5",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "nginx",
+            "action": "stop"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T20:37:35+00:00",
+        "finished_at": "2026-05-18T20:37:35+00:00",
+        "error": null,
+        "created_at": "2026-05-18T20:37:35+00:00",
+        "updated_at": "2026-05-18T20:37:35+00:00"
+    },
+    {
+        "id": "e1bcaa1354bd249d",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "nginx",
+            "action": "start"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T20:37:48+00:00",
+        "finished_at": "2026-05-18T20:37:48+00:00",
+        "error": null,
+        "created_at": "2026-05-18T20:37:48+00:00",
+        "updated_at": "2026-05-18T20:37:48+00:00"
+    },
+    {
+        "id": "5e71669b9597bfb6",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "nginx",
+            "action": "restart"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T20:37:52+00:00",
+        "finished_at": "2026-05-18T20:37:52+00:00",
+        "error": null,
+        "created_at": "2026-05-18T20:37:52+00:00",
+        "updated_at": "2026-05-18T20:37:52+00:00"
+    },
+    {
+        "id": "0c7f77e0da083009",
+        "type": "install_package",
+        "status": "done",
+        "payload": {
+            "package": "mariadb",
+            "service": "mariadb",
+            "source": "dashboard"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T20:37:56+00:00",
+        "finished_at": "2026-05-18T20:37:56+00:00",
+        "error": null,
+        "created_at": "2026-05-18T20:37:56+00:00",
+        "updated_at": "2026-05-18T20:37:56+00:00"
+    },
+    {
+        "id": "800f5d1e30f773fc",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "mariadb",
+            "action": "start"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T20:40:56+00:00",
+        "finished_at": "2026-05-18T20:40:56+00:00",
+        "error": null,
+        "created_at": "2026-05-18T20:40:56+00:00",
+        "updated_at": "2026-05-18T20:40:56+00:00"
+    },
+    {
+        "id": "98e3993908abf1ab",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "mariadb",
+            "action": "stop"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T20:41:22+00:00",
+        "finished_at": "2026-05-18T20:41:22+00:00",
+        "error": null,
+        "created_at": "2026-05-18T20:41:22+00:00",
+        "updated_at": "2026-05-18T20:41:22+00:00"
+    },
+    {
+        "id": "8df0ff85063efedd",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "mariadb",
+            "action": "start"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T20:55:01+00:00",
+        "finished_at": "2026-05-18T20:55:01+00:00",
+        "error": null,
+        "created_at": "2026-05-18T20:55:01+00:00",
+        "updated_at": "2026-05-18T20:55:01+00:00"
+    },
+    {
+        "id": "bea4097614574824",
+        "type": "site_create",
+        "status": "done",
+        "payload": {
+            "site_id": "6d4f8c5e1cea44bc",
+            "domain": "example.com",
+            "document_root": "\/var\/www\/example_com\/public_html",
+            "server_ip": "127.0.0.1",
+            "web_server": "nginx",
+            "runtime": "php",
+            "provision_dns": true,
+            "provision_ssl": true
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T20:56:10+00:00",
+        "finished_at": "2026-05-18T20:56:10+00:00",
+        "error": null,
+        "created_at": "2026-05-18T20:56:10+00:00",
+        "updated_at": "2026-05-18T20:56:10+00:00"
+    },
+    {
+        "id": "7237c64dc9e65225",
+        "type": "proxy_apply",
+        "status": "done",
+        "payload": {
+            "site_id": "6d4f8c5e1cea44bc",
+            "domain": "example.com",
+            "document_root": "\/var\/www\/example_com\/public_html"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T20:59:07+00:00",
+        "finished_at": "2026-05-18T20:59:07+00:00",
+        "error": null,
+        "created_at": "2026-05-18T20:59:07+00:00",
+        "updated_at": "2026-05-18T20:59:07+00:00"
+    },
+    {
+        "id": "558c7172f915d7b4",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "mariadb",
+            "action": "stop"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T22:22:27+00:00",
+        "finished_at": "2026-05-18T22:22:27+00:00",
+        "error": null,
+        "created_at": "2026-05-18T22:22:27+00:00",
+        "updated_at": "2026-05-18T22:22:27+00:00"
+    },
+    {
+        "id": "8d0082b6a4f84ae3",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "mariadb",
+            "action": "start"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T22:22:32+00:00",
+        "finished_at": "2026-05-18T22:22:32+00:00",
+        "error": null,
+        "created_at": "2026-05-18T22:22:32+00:00",
+        "updated_at": "2026-05-18T22:22:32+00:00"
+    },
+    {
+        "id": "35974ebaef1b867c",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "mariadb",
+            "action": "stop"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T22:22:34+00:00",
+        "finished_at": "2026-05-18T22:22:34+00:00",
+        "error": null,
+        "created_at": "2026-05-18T22:22:34+00:00",
+        "updated_at": "2026-05-18T22:22:34+00:00"
+    },
+    {
+        "id": "04cfefd3514a8a7a",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "mariadb",
+            "action": "start"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T22:22:39+00:00",
+        "finished_at": "2026-05-18T22:22:39+00:00",
+        "error": null,
+        "created_at": "2026-05-18T22:22:39+00:00",
+        "updated_at": "2026-05-18T22:22:39+00:00"
+    },
+    {
+        "id": "d7e2f716083d0710",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "mariadb",
+            "action": "stop"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T22:22:42+00:00",
+        "finished_at": "2026-05-18T22:22:42+00:00",
+        "error": null,
+        "created_at": "2026-05-18T22:22:42+00:00",
+        "updated_at": "2026-05-18T22:22:42+00:00"
+    },
+    {
+        "id": "dde3eaa2ba91304b",
+        "type": "remove_package",
+        "status": "done",
+        "payload": {
+            "package": "mariadb-server",
+            "service": "mariadb",
+            "source": "dashboard"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T22:30:48+00:00",
+        "finished_at": "2026-05-18T22:30:48+00:00",
+        "error": null,
+        "created_at": "2026-05-18T22:30:48+00:00",
+        "updated_at": "2026-05-18T22:30:48+00:00"
+    },
+    {
+        "id": "f871f101d029df3c",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "mariadb",
+            "action": "start"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T22:31:22+00:00",
+        "finished_at": "2026-05-18T22:31:22+00:00",
+        "error": null,
+        "created_at": "2026-05-18T22:31:22+00:00",
+        "updated_at": "2026-05-18T22:31:22+00:00"
+    },
+    {
+        "id": "9ade95f7386c6e84",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "mariadb",
+            "action": "stop"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T22:32:12+00:00",
+        "finished_at": "2026-05-18T22:32:12+00:00",
+        "error": null,
+        "created_at": "2026-05-18T22:32:12+00:00",
+        "updated_at": "2026-05-18T22:32:12+00:00"
+    },
+    {
+        "id": "3a1d2025d29e1170",
+        "type": "remove_package",
+        "status": "done",
+        "payload": {
+            "package": "mariadb-server",
+            "service": "mariadb",
+            "source": "dashboard"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T22:32:15+00:00",
+        "finished_at": "2026-05-18T22:32:15+00:00",
+        "error": null,
+        "created_at": "2026-05-18T22:32:15+00:00",
+        "updated_at": "2026-05-18T22:32:15+00:00"
+    },
+    {
+        "id": "cda3637c41179c46",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "mariadb",
+            "action": "restart"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T22:46:38+00:00",
+        "finished_at": "2026-05-18T22:46:38+00:00",
+        "error": null,
+        "created_at": "2026-05-18T22:46:38+00:00",
+        "updated_at": "2026-05-18T22:46:38+00:00"
+    },
+    {
+        "id": "51be69a07fd555ae",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "mariadb",
+            "action": "stop"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-18T23:18:20+00:00",
+        "finished_at": "2026-05-18T23:18:20+00:00",
+        "error": null,
+        "created_at": "2026-05-18T23:18:20+00:00",
+        "updated_at": "2026-05-18T23:18:20+00:00"
+    },
+    {
+        "id": "eabe7f8e81d3f948",
+        "type": "proxy_apply",
+        "status": "done",
+        "payload": {
+            "site_id": "7f3d24dd3bca2334",
+            "domain": "ornek-test-01.com",
+            "document_root": "\/var\/www\/ornek-test-01_com\/public_html"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-20T08:23:59+00:00",
+        "finished_at": "2026-05-20T08:23:59+00:00",
+        "error": null,
+        "created_at": "2026-05-20T08:23:59+00:00",
+        "updated_at": "2026-05-20T08:23:59+00:00"
+    },
+    {
+        "id": "c830ddd1015bc912",
+        "type": "proxy_apply",
+        "status": "done",
+        "payload": {
+            "site_id": "89b410f7b09dfce1",
+            "domain": "hazirkurumsalsite.com.tr",
+            "document_root": "\/var\/www\/hazirkurumsalsite_com_tr\/public_html"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-20T08:25:34+00:00",
+        "finished_at": "2026-05-20T08:25:34+00:00",
+        "error": null,
+        "created_at": "2026-05-20T08:25:34+00:00",
+        "updated_at": "2026-05-20T08:25:34+00:00"
+    },
+    {
+        "id": "21f6691e23e26b55",
+        "type": "db_create",
+        "status": "done",
+        "payload": {
+            "site_id": "89b410f7b09dfce1",
+            "db_name": "hazirkurumsalsite__wp",
+            "db_user": "hazirkurumsalsite__u"
+        },
+        "attempts": 2,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-20T08:26:13+00:00",
+        "finished_at": "2026-05-20T23:33:10+00:00",
+        "error": null,
+        "created_at": "2026-05-20T08:26:13+00:00",
+        "updated_at": "2026-05-20T23:33:10+00:00"
+    },
+    {
+        "id": "b4121817e99ab4da",
+        "type": "wp_install",
+        "status": "done",
+        "payload": {
+            "site_id": "89b410f7b09dfce1",
+            "domain": "hazirkurumsalsite.com.tr",
+            "admin_user": "test",
+            "admin_password": "testtesttest",
+            "admin_email": "test@example.com"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-20T08:26:13+00:00",
+        "finished_at": "2026-05-20T08:26:13+00:00",
+        "error": null,
+        "created_at": "2026-05-20T08:26:13+00:00",
+        "updated_at": "2026-05-20T08:26:13+00:00"
+    },
+    {
+        "id": "62e1b2f5ec73d1b9",
+        "type": "wp_plugin_install",
+        "status": "done",
+        "payload": {
+            "site_id": "89b410f7b09dfce1",
+            "plugin": "woocommerce"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-20T08:27:05+00:00",
+        "finished_at": "2026-05-20T08:27:05+00:00",
+        "error": null,
+        "created_at": "2026-05-20T08:27:05+00:00",
+        "updated_at": "2026-05-20T08:27:05+00:00"
+    },
+    {
+        "id": "9b713b5ac7762d15",
+        "type": "wp_staging_create",
+        "status": "done",
+        "payload": {
+            "site_id": "89b410f7b09dfce1",
+            "domain": "hazirkurumsalsite.com.tr"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-20T08:27:54+00:00",
+        "finished_at": "2026-05-20T08:27:54+00:00",
+        "error": null,
+        "created_at": "2026-05-20T08:27:54+00:00",
+        "updated_at": "2026-05-20T08:27:54+00:00"
+    },
+    {
+        "id": "245c5d51e13a9596",
+        "type": "wp_staging_sync_live",
+        "status": "done",
+        "payload": {
+            "site_id": "89b410f7b09dfce1",
+            "domain": "hazirkurumsalsite.com.tr"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-20T08:28:13+00:00",
+        "finished_at": "2026-05-20T08:28:13+00:00",
+        "error": null,
+        "created_at": "2026-05-20T08:28:13+00:00",
+        "updated_at": "2026-05-20T08:28:13+00:00"
+    },
+    {
+        "id": "9fe1cf372ec7e5fc",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "php-fpm",
+            "action": "start"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-20T23:33:10+00:00",
+        "finished_at": "2026-05-20T23:33:10+00:00",
+        "error": null,
+        "created_at": "2026-05-20T23:33:10+00:00",
+        "updated_at": "2026-05-20T23:33:10+00:00"
+    },
+    {
+        "id": "359df731bad0347b",
+        "type": "service_control",
+        "status": "done",
+        "payload": {
+            "service": "dns",
+            "action": "start"
+        },
+        "attempts": 1,
+        "max_attempts": 3,
+        "locked_at": null,
+        "started_at": "2026-05-20T23:33:18+00:00",
+        "finished_at": "2026-05-20T23:33:18+00:00",
+        "error": null,
+        "created_at": "2026-05-20T23:33:18+00:00",
+        "updated_at": "2026-05-20T23:33:18+00:00"
+    }
+]

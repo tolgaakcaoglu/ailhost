@@ -1,0 +1,26 @@
+{
+    "nginx": {
+        "service": "nginx",
+        "status": "running",
+        "last_action": "restart",
+        "updated_at": "2026-05-18T20:37:52+00:00"
+    },
+    "mariadb": {
+        "service": "mariadb",
+        "status": "stopped",
+        "last_action": "stop",
+        "updated_at": "2026-05-18T23:18:20+00:00"
+    },
+    "php-fpm": {
+        "service": "php-fpm",
+        "status": "running",
+        "last_action": "start",
+        "updated_at": "2026-05-20T23:33:10+00:00"
+    },
+    "dns": {
+        "service": "dns",
+        "status": "running",
+        "last_action": "start",
+        "updated_at": "2026-05-20T23:33:18+00:00"
+    }
+}

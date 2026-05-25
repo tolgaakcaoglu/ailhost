@@ -1,0 +1,14 @@
+{
+    "7f3d24dd3bca2334": {
+        "site_id": "7f3d24dd3bca2334",
+        "source_type": "manual",
+        "source_value": "",
+        "build_command": "",
+        "start_command": "",
+        "port": 3000,
+        "webhook_secret": "",
+        "webhook_secret_encrypted": "",
+        "webhook_branch": "main",
+        "updated_at": "2026-05-20T08:24:44+00:00"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "hostname": "server1",
+    "server_name": "server1",
+    "server_ip": "127.0.0.1",
+    "nameserver_1": "",
+    "nameserver_2": "",
+    "timezone": "UTC",
+    "log_retention_days": 30,
+    "default_web_root": "\/var\/www\/html",
+    "backup_path": "\/mnt\/backups\/ailhost",
+    "updated_at": "2026-05-18T15:00:32+00:00"
+}

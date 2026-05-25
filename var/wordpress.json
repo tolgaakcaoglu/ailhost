@@ -1,0 +1,87 @@
+{
+    "7f3d24dd3bca2334": {
+        "installed": true,
+        "url": "https:\/\/ornek-test-01.com",
+        "admin_user": "wpadmin",
+        "admin_email": "wpadmin@example.com",
+        "core_version": "6.7",
+        "maintenance": false,
+        "plugins": [
+            "akismet",
+            "hello-dolly",
+            "jetpack"
+        ],
+        "active_theme": "astra",
+        "document_root": "\/var\/www\/ornek-test-01_com\/public_html",
+        "updated_at": "2026-05-18T20:36:37+00:00",
+        "security_scan_at": "2026-05-17T15:51:41+00:00",
+        "core_update_available": false,
+        "plugin_updates": 0,
+        "theme_updates": 0,
+        "wp_debug_enabled": false,
+        "xmlrpc_enabled": false,
+        "file_editor_disabled": true,
+        "object_cache_enabled": false,
+        "staging": {
+            "status": "creating",
+            "staging_domain": "staging.ornek-test-01.com",
+            "last_create_requested_at": "2026-05-17T15:52:10+00:00",
+            "last_error": "",
+            "updated_at": "2026-05-17T15:52:10+00:00"
+        },
+        "last_operations": [
+            {
+                "time": "2026-05-17T15:52:10+00:00",
+                "action": "staging.create",
+                "target": "staging",
+                "ok": true
+            }
+        ],
+        "themes": []
+    },
+    "89b410f7b09dfce1": {
+        "installed": true,
+        "url": "https:\/\/hazirkurumsalsite.com.tr",
+        "admin_user": "test",
+        "admin_email": "test@example.com",
+        "core_version": "6.6",
+        "maintenance": false,
+        "plugins": [
+            "akismet",
+            "hello-dolly",
+            "woocommerce"
+        ],
+        "active_theme": "twentytwentyfour",
+        "document_root": "\/var\/www\/hazirkurumsalsite_com_tr\/public_html",
+        "updated_at": "2026-05-20T08:27:05+00:00",
+        "last_operations": [
+            {
+                "time": "2026-05-20T08:27:05+00:00",
+                "action": "plugin.install",
+                "target": "woocommerce",
+                "ok": true
+            },
+            {
+                "time": "2026-05-20T08:27:54+00:00",
+                "action": "staging.create",
+                "target": "staging",
+                "ok": true
+            },
+            {
+                "time": "2026-05-20T08:28:13+00:00",
+                "action": "staging.sync_live",
+                "target": "live",
+                "ok": true
+            }
+        ],
+        "themes": [],
+        "staging": {
+            "status": "syncing",
+            "staging_domain": "staging.hazirkurumsalsite.com.tr",
+            "last_create_requested_at": "2026-05-20T08:27:54+00:00",
+            "last_error": "",
+            "updated_at": "2026-05-20T08:28:13+00:00",
+            "last_sync_requested_at": "2026-05-20T08:28:13+00:00"
+        }
+    }
+}

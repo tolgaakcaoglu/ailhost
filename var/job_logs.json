@@ -1,0 +1,1322 @@
+[
+    {
+        "job_id": "f2e8c548d64c972e",
+        "stream": "info",
+        "message": "Plugin işlemi tamamlandı: jetpack",
+        "time": "2026-05-17T02:48:31+00:00"
+    },
+    {
+        "job_id": "f2e8c548d64c972e",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-17T02:48:31+00:00"
+    },
+    {
+        "job_id": "f2e8c548d64c972e",
+        "stream": "info",
+        "message": "Plugin işlemi tamamlandı: jetpack",
+        "time": "2026-05-17T02:48:31+00:00"
+    },
+    {
+        "job_id": "f2e8c548d64c972e",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-17T02:48:31+00:00"
+    },
+    {
+        "job_id": "5881cb263148211e",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-17T02:48:31+00:00"
+    },
+    {
+        "job_id": "5881cb263148211e",
+        "stream": "info",
+        "message": "Tema aktivasyonu tamamlandı.",
+        "time": "2026-05-17T02:48:31+00:00"
+    },
+    {
+        "job_id": "5881cb263148211e",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-17T02:48:31+00:00"
+    },
+    {
+        "job_id": "431bd754f38fcd39",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-17T02:48:49+00:00"
+    },
+    {
+        "job_id": "c4e71d5e34a5d8bc",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-17T02:48:49+00:00"
+    },
+    {
+        "job_id": "431bd754f38fcd39",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-17T02:48:49+00:00"
+    },
+    {
+        "job_id": "431bd754f38fcd39",
+        "stream": "info",
+        "message": "Plugin işlemi tamamlandı: jetpack",
+        "time": "2026-05-17T02:48:49+00:00"
+    },
+    {
+        "job_id": "431bd754f38fcd39",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-17T02:48:49+00:00"
+    },
+    {
+        "job_id": "c4e71d5e34a5d8bc",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-17T02:48:49+00:00"
+    },
+    {
+        "job_id": "c4e71d5e34a5d8bc",
+        "stream": "info",
+        "message": "Tema aktivasyonu tamamlandı.",
+        "time": "2026-05-17T02:48:49+00:00"
+    },
+    {
+        "job_id": "c4e71d5e34a5d8bc",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-17T02:48:49+00:00"
+    },
+    {
+        "job_id": "fcf7346c100c097a",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-17T02:51:23+00:00"
+    },
+    {
+        "job_id": "fcf7346c100c097a",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-17T02:51:23+00:00"
+    },
+    {
+        "job_id": "fcf7346c100c097a",
+        "stream": "info",
+        "message": "Backup oluşturma tamamlandı.",
+        "time": "2026-05-17T02:51:23+00:00"
+    },
+    {
+        "job_id": "fcf7346c100c097a",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-17T02:51:23+00:00"
+    },
+    {
+        "job_id": "b8f2e6e9cf400d7b",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-17T02:53:20+00:00"
+    },
+    {
+        "job_id": "a57f77d137691469",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-17T02:53:20+00:00"
+    },
+    {
+        "job_id": "b8f2e6e9cf400d7b",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-17T02:53:20+00:00"
+    },
+    {
+        "job_id": "b8f2e6e9cf400d7b",
+        "stream": "info",
+        "message": "Backup oluşturma tamamlandı.",
+        "time": "2026-05-17T02:53:20+00:00"
+    },
+    {
+        "job_id": "b8f2e6e9cf400d7b",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-17T02:53:20+00:00"
+    },
+    {
+        "job_id": "a57f77d137691469",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-17T02:53:28+00:00"
+    },
+    {
+        "job_id": "a57f77d137691469",
+        "stream": "info",
+        "message": "Backup retention cleanup tamamlandı.",
+        "time": "2026-05-17T02:53:28+00:00"
+    },
+    {
+        "job_id": "a57f77d137691469",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-17T02:53:28+00:00"
+    },
+    {
+        "job_id": "e75fe2a31a116ec8",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-17T03:41:09+00:00"
+    },
+    {
+        "job_id": "41463a89d166e7b3",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-17T03:41:40+00:00"
+    },
+    {
+        "job_id": "c0f86294b66452da",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-17T04:10:44+00:00"
+    },
+    {
+        "job_id": "c0f86294b66452da",
+        "stream": "info",
+        "message": "Website oluşturma işi kuyruğa alındı.",
+        "time": "2026-05-17T04:10:44+00:00"
+    },
+    {
+        "job_id": "f5f8b8b2308cf783",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-17T15:52:10+00:00"
+    },
+    {
+        "job_id": "system",
+        "stream": "info",
+        "message": "Ayarlar kaydedildi.",
+        "time": "2026-05-18T01:24:16+00:00"
+    },
+    {
+        "job_id": "system",
+        "stream": "info",
+        "message": "Ayarlar kaydedildi.",
+        "time": "2026-05-18T01:25:09+00:00"
+    },
+    {
+        "job_id": "system",
+        "stream": "info",
+        "message": "Ayarlar kaydedildi.",
+        "time": "2026-05-18T01:26:31+00:00"
+    },
+    {
+        "job_id": "system",
+        "stream": "info",
+        "message": "Ayarlar kaydedildi.",
+        "time": "2026-05-18T01:44:47+00:00"
+    },
+    {
+        "job_id": "system",
+        "stream": "info",
+        "message": "Ayarlar kaydedildi.",
+        "time": "2026-05-18T01:49:23+00:00"
+    },
+    {
+        "job_id": "system",
+        "stream": "info",
+        "message": "Ayarlar kaydedildi.",
+        "time": "2026-05-18T01:53:35+00:00"
+    },
+    {
+        "job_id": "system",
+        "stream": "info",
+        "message": "Ayarlar kaydedildi.",
+        "time": "2026-05-18T01:55:42+00:00"
+    },
+    {
+        "job_id": "system",
+        "stream": "info",
+        "message": "Ayarlar kaydedildi.",
+        "time": "2026-05-18T03:13:43+00:00"
+    },
+    {
+        "job_id": "system",
+        "stream": "info",
+        "message": "Ayarlar kaydedildi.",
+        "time": "2026-05-18T03:13:51+00:00"
+    },
+    {
+        "job_id": "system",
+        "stream": "info",
+        "message": "Ayarlar kaydedildi.",
+        "time": "2026-05-18T03:15:16+00:00"
+    },
+    {
+        "job_id": "system",
+        "stream": "info",
+        "message": "Ayarlar kaydedildi.",
+        "time": "2026-05-18T03:15:45+00:00"
+    },
+    {
+        "job_id": "system",
+        "stream": "info",
+        "message": "Kurulum kilitlendi.",
+        "time": "2026-05-18T03:16:09+00:00"
+    },
+    {
+        "job_id": "system",
+        "stream": "info",
+        "message": "Kurulum kilitlendi.",
+        "time": "2026-05-18T14:47:36+00:00"
+    },
+    {
+        "job_id": "system",
+        "stream": "info",
+        "message": "Ayarlar kaydedildi.",
+        "time": "2026-05-18T15:00:26+00:00"
+    },
+    {
+        "job_id": "system",
+        "stream": "info",
+        "message": "Ayarlar kaydedildi.",
+        "time": "2026-05-18T15:00:32+00:00"
+    },
+    {
+        "job_id": "system",
+        "stream": "info",
+        "message": "Kurulum kilitlendi.",
+        "time": "2026-05-18T15:00:45+00:00"
+    },
+    {
+        "job_id": "67861f0b5b3c8e9e",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T20:33:38+00:00"
+    },
+    {
+        "job_id": "d0a1a7c2e5b89ed6",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T20:34:31+00:00"
+    },
+    {
+        "job_id": "99052de16646d9e0",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T20:34:36+00:00"
+    },
+    {
+        "job_id": "e75fe2a31a116ec8",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "e75fe2a31a116ec8",
+        "stream": "info",
+        "message": "Backup oluşturma tamamlandı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "e75fe2a31a116ec8",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "41463a89d166e7b3",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "41463a89d166e7b3",
+        "stream": "info",
+        "message": "WordPress core update tamamlandı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "41463a89d166e7b3",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "c0f86294b66452da",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "c0f86294b66452da",
+        "stream": "info",
+        "message": "Website provisioning başladı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "c0f86294b66452da",
+        "stream": "info",
+        "message": "Website provisioning tamamlandı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "c0f86294b66452da",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "f5f8b8b2308cf783",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "f5f8b8b2308cf783",
+        "stream": "info",
+        "message": "İş işlendi: wp_staging_create",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "f5f8b8b2308cf783",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "67861f0b5b3c8e9e",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "67861f0b5b3c8e9e",
+        "stream": "info",
+        "message": "Paket kontrolü başladı: mariadb",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "67861f0b5b3c8e9e",
+        "stream": "info",
+        "message": "Paket kuruldu olarak işaretlendi. (mariadb)",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "67861f0b5b3c8e9e",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "d0a1a7c2e5b89ed6",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "d0a1a7c2e5b89ed6",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: nginx \/ start",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "d0a1a7c2e5b89ed6",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: nginx \/ start",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "d0a1a7c2e5b89ed6",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "99052de16646d9e0",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "99052de16646d9e0",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: nginx \/ start",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "99052de16646d9e0",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: nginx \/ start",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "99052de16646d9e0",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T20:36:37+00:00"
+    },
+    {
+        "job_id": "c4a2052c47c0cfa5",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T20:37:35+00:00"
+    },
+    {
+        "job_id": "c4a2052c47c0cfa5",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T20:37:35+00:00"
+    },
+    {
+        "job_id": "c4a2052c47c0cfa5",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: nginx \/ stop",
+        "time": "2026-05-18T20:37:35+00:00"
+    },
+    {
+        "job_id": "c4a2052c47c0cfa5",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: nginx \/ stop",
+        "time": "2026-05-18T20:37:35+00:00"
+    },
+    {
+        "job_id": "c4a2052c47c0cfa5",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T20:37:35+00:00"
+    },
+    {
+        "job_id": "e1bcaa1354bd249d",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T20:37:48+00:00"
+    },
+    {
+        "job_id": "e1bcaa1354bd249d",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T20:37:48+00:00"
+    },
+    {
+        "job_id": "e1bcaa1354bd249d",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: nginx \/ start",
+        "time": "2026-05-18T20:37:48+00:00"
+    },
+    {
+        "job_id": "e1bcaa1354bd249d",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: nginx \/ start",
+        "time": "2026-05-18T20:37:48+00:00"
+    },
+    {
+        "job_id": "e1bcaa1354bd249d",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T20:37:48+00:00"
+    },
+    {
+        "job_id": "5e71669b9597bfb6",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T20:37:52+00:00"
+    },
+    {
+        "job_id": "5e71669b9597bfb6",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T20:37:52+00:00"
+    },
+    {
+        "job_id": "5e71669b9597bfb6",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: nginx \/ restart",
+        "time": "2026-05-18T20:37:52+00:00"
+    },
+    {
+        "job_id": "5e71669b9597bfb6",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: nginx \/ restart",
+        "time": "2026-05-18T20:37:52+00:00"
+    },
+    {
+        "job_id": "5e71669b9597bfb6",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T20:37:52+00:00"
+    },
+    {
+        "job_id": "0c7f77e0da083009",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T20:37:56+00:00"
+    },
+    {
+        "job_id": "0c7f77e0da083009",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T20:37:56+00:00"
+    },
+    {
+        "job_id": "0c7f77e0da083009",
+        "stream": "info",
+        "message": "Paket kontrolü başladı: mariadb",
+        "time": "2026-05-18T20:37:56+00:00"
+    },
+    {
+        "job_id": "0c7f77e0da083009",
+        "stream": "info",
+        "message": "Paket zaten kurulu. (mariadb)",
+        "time": "2026-05-18T20:37:56+00:00"
+    },
+    {
+        "job_id": "0c7f77e0da083009",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T20:37:56+00:00"
+    },
+    {
+        "job_id": "800f5d1e30f773fc",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T20:40:56+00:00"
+    },
+    {
+        "job_id": "800f5d1e30f773fc",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T20:40:56+00:00"
+    },
+    {
+        "job_id": "800f5d1e30f773fc",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: mariadb \/ start",
+        "time": "2026-05-18T20:40:56+00:00"
+    },
+    {
+        "job_id": "800f5d1e30f773fc",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: mariadb \/ start",
+        "time": "2026-05-18T20:40:56+00:00"
+    },
+    {
+        "job_id": "800f5d1e30f773fc",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T20:40:56+00:00"
+    },
+    {
+        "job_id": "98e3993908abf1ab",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T20:41:22+00:00"
+    },
+    {
+        "job_id": "98e3993908abf1ab",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T20:41:22+00:00"
+    },
+    {
+        "job_id": "98e3993908abf1ab",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: mariadb \/ stop",
+        "time": "2026-05-18T20:41:22+00:00"
+    },
+    {
+        "job_id": "98e3993908abf1ab",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: mariadb \/ stop",
+        "time": "2026-05-18T20:41:22+00:00"
+    },
+    {
+        "job_id": "98e3993908abf1ab",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T20:41:22+00:00"
+    },
+    {
+        "job_id": "8df0ff85063efedd",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T20:55:01+00:00"
+    },
+    {
+        "job_id": "8df0ff85063efedd",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T20:55:01+00:00"
+    },
+    {
+        "job_id": "8df0ff85063efedd",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: mariadb \/ start",
+        "time": "2026-05-18T20:55:01+00:00"
+    },
+    {
+        "job_id": "8df0ff85063efedd",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: mariadb \/ start",
+        "time": "2026-05-18T20:55:01+00:00"
+    },
+    {
+        "job_id": "8df0ff85063efedd",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T20:55:01+00:00"
+    },
+    {
+        "job_id": "bea4097614574824",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T20:56:10+00:00"
+    },
+    {
+        "job_id": "bea4097614574824",
+        "stream": "info",
+        "message": "Website oluşturma işi kuyruğa alındı.",
+        "time": "2026-05-18T20:56:10+00:00"
+    },
+    {
+        "job_id": "bea4097614574824",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T20:56:10+00:00"
+    },
+    {
+        "job_id": "bea4097614574824",
+        "stream": "info",
+        "message": "Website provisioning başladı.",
+        "time": "2026-05-18T20:56:10+00:00"
+    },
+    {
+        "job_id": "bea4097614574824",
+        "stream": "info",
+        "message": "Website provisioning tamamlandı.",
+        "time": "2026-05-18T20:56:10+00:00"
+    },
+    {
+        "job_id": "bea4097614574824",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T20:56:10+00:00"
+    },
+    {
+        "job_id": "7237c64dc9e65225",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T20:59:07+00:00"
+    },
+    {
+        "job_id": "7237c64dc9e65225",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T20:59:07+00:00"
+    },
+    {
+        "job_id": "7237c64dc9e65225",
+        "stream": "info",
+        "message": "Proxy apply başladı. Route sayısı: 1",
+        "time": "2026-05-18T20:59:07+00:00"
+    },
+    {
+        "job_id": "7237c64dc9e65225",
+        "stream": "info",
+        "message": "Proxy apply tamamlandı.",
+        "time": "2026-05-18T20:59:07+00:00"
+    },
+    {
+        "job_id": "7237c64dc9e65225",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T20:59:07+00:00"
+    },
+    {
+        "job_id": "558c7172f915d7b4",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T22:22:27+00:00"
+    },
+    {
+        "job_id": "558c7172f915d7b4",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T22:22:27+00:00"
+    },
+    {
+        "job_id": "558c7172f915d7b4",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: mariadb \/ stop",
+        "time": "2026-05-18T22:22:27+00:00"
+    },
+    {
+        "job_id": "558c7172f915d7b4",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: mariadb \/ stop",
+        "time": "2026-05-18T22:22:27+00:00"
+    },
+    {
+        "job_id": "558c7172f915d7b4",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T22:22:27+00:00"
+    },
+    {
+        "job_id": "8d0082b6a4f84ae3",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T22:22:32+00:00"
+    },
+    {
+        "job_id": "8d0082b6a4f84ae3",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T22:22:32+00:00"
+    },
+    {
+        "job_id": "8d0082b6a4f84ae3",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: mariadb \/ start",
+        "time": "2026-05-18T22:22:32+00:00"
+    },
+    {
+        "job_id": "8d0082b6a4f84ae3",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: mariadb \/ start",
+        "time": "2026-05-18T22:22:32+00:00"
+    },
+    {
+        "job_id": "8d0082b6a4f84ae3",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T22:22:32+00:00"
+    },
+    {
+        "job_id": "35974ebaef1b867c",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T22:22:34+00:00"
+    },
+    {
+        "job_id": "35974ebaef1b867c",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T22:22:34+00:00"
+    },
+    {
+        "job_id": "35974ebaef1b867c",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: mariadb \/ stop",
+        "time": "2026-05-18T22:22:34+00:00"
+    },
+    {
+        "job_id": "35974ebaef1b867c",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: mariadb \/ stop",
+        "time": "2026-05-18T22:22:34+00:00"
+    },
+    {
+        "job_id": "35974ebaef1b867c",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T22:22:34+00:00"
+    },
+    {
+        "job_id": "04cfefd3514a8a7a",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T22:22:39+00:00"
+    },
+    {
+        "job_id": "04cfefd3514a8a7a",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T22:22:39+00:00"
+    },
+    {
+        "job_id": "04cfefd3514a8a7a",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: mariadb \/ start",
+        "time": "2026-05-18T22:22:39+00:00"
+    },
+    {
+        "job_id": "04cfefd3514a8a7a",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: mariadb \/ start",
+        "time": "2026-05-18T22:22:39+00:00"
+    },
+    {
+        "job_id": "04cfefd3514a8a7a",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T22:22:39+00:00"
+    },
+    {
+        "job_id": "d7e2f716083d0710",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T22:22:42+00:00"
+    },
+    {
+        "job_id": "d7e2f716083d0710",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T22:22:42+00:00"
+    },
+    {
+        "job_id": "d7e2f716083d0710",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: mariadb \/ stop",
+        "time": "2026-05-18T22:22:42+00:00"
+    },
+    {
+        "job_id": "d7e2f716083d0710",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: mariadb \/ stop",
+        "time": "2026-05-18T22:22:42+00:00"
+    },
+    {
+        "job_id": "d7e2f716083d0710",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T22:22:42+00:00"
+    },
+    {
+        "job_id": "dde3eaa2ba91304b",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T22:30:48+00:00"
+    },
+    {
+        "job_id": "dde3eaa2ba91304b",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T22:30:48+00:00"
+    },
+    {
+        "job_id": "dde3eaa2ba91304b",
+        "stream": "info",
+        "message": "Paket kaldırma başladı: mariadb-server",
+        "time": "2026-05-18T22:30:48+00:00"
+    },
+    {
+        "job_id": "dde3eaa2ba91304b",
+        "stream": "info",
+        "message": "Paket zaten sistemde yok. (mariadb-server)",
+        "time": "2026-05-18T22:30:48+00:00"
+    },
+    {
+        "job_id": "dde3eaa2ba91304b",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T22:30:48+00:00"
+    },
+    {
+        "job_id": "f871f101d029df3c",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T22:31:22+00:00"
+    },
+    {
+        "job_id": "f871f101d029df3c",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T22:31:22+00:00"
+    },
+    {
+        "job_id": "f871f101d029df3c",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: mariadb \/ start",
+        "time": "2026-05-18T22:31:22+00:00"
+    },
+    {
+        "job_id": "f871f101d029df3c",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: mariadb \/ start",
+        "time": "2026-05-18T22:31:22+00:00"
+    },
+    {
+        "job_id": "f871f101d029df3c",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T22:31:22+00:00"
+    },
+    {
+        "job_id": "9ade95f7386c6e84",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T22:32:12+00:00"
+    },
+    {
+        "job_id": "9ade95f7386c6e84",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T22:32:12+00:00"
+    },
+    {
+        "job_id": "9ade95f7386c6e84",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: mariadb \/ stop",
+        "time": "2026-05-18T22:32:12+00:00"
+    },
+    {
+        "job_id": "9ade95f7386c6e84",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: mariadb \/ stop",
+        "time": "2026-05-18T22:32:12+00:00"
+    },
+    {
+        "job_id": "9ade95f7386c6e84",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T22:32:12+00:00"
+    },
+    {
+        "job_id": "3a1d2025d29e1170",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T22:32:15+00:00"
+    },
+    {
+        "job_id": "3a1d2025d29e1170",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T22:32:15+00:00"
+    },
+    {
+        "job_id": "3a1d2025d29e1170",
+        "stream": "info",
+        "message": "Paket kaldırma başladı: mariadb-server",
+        "time": "2026-05-18T22:32:15+00:00"
+    },
+    {
+        "job_id": "3a1d2025d29e1170",
+        "stream": "info",
+        "message": "Paket zaten sistemde yok. (mariadb-server)",
+        "time": "2026-05-18T22:32:15+00:00"
+    },
+    {
+        "job_id": "3a1d2025d29e1170",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T22:32:15+00:00"
+    },
+    {
+        "job_id": "cda3637c41179c46",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T22:46:38+00:00"
+    },
+    {
+        "job_id": "cda3637c41179c46",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T22:46:38+00:00"
+    },
+    {
+        "job_id": "cda3637c41179c46",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: mariadb \/ restart",
+        "time": "2026-05-18T22:46:38+00:00"
+    },
+    {
+        "job_id": "cda3637c41179c46",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: mariadb \/ restart",
+        "time": "2026-05-18T22:46:38+00:00"
+    },
+    {
+        "job_id": "cda3637c41179c46",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T22:46:38+00:00"
+    },
+    {
+        "job_id": "51be69a07fd555ae",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-18T23:18:20+00:00"
+    },
+    {
+        "job_id": "51be69a07fd555ae",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-18T23:18:20+00:00"
+    },
+    {
+        "job_id": "51be69a07fd555ae",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: mariadb \/ stop",
+        "time": "2026-05-18T23:18:20+00:00"
+    },
+    {
+        "job_id": "51be69a07fd555ae",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: mariadb \/ stop",
+        "time": "2026-05-18T23:18:20+00:00"
+    },
+    {
+        "job_id": "51be69a07fd555ae",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-18T23:18:20+00:00"
+    },
+    {
+        "job_id": "eabe7f8e81d3f948",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-20T08:23:59+00:00"
+    },
+    {
+        "job_id": "eabe7f8e81d3f948",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-20T08:23:59+00:00"
+    },
+    {
+        "job_id": "eabe7f8e81d3f948",
+        "stream": "info",
+        "message": "Proxy apply başladı. Route sayısı: 1",
+        "time": "2026-05-20T08:23:59+00:00"
+    },
+    {
+        "job_id": "eabe7f8e81d3f948",
+        "stream": "info",
+        "message": "Proxy apply tamamlandı.",
+        "time": "2026-05-20T08:23:59+00:00"
+    },
+    {
+        "job_id": "eabe7f8e81d3f948",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-20T08:23:59+00:00"
+    },
+    {
+        "job_id": "c830ddd1015bc912",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-20T08:25:34+00:00"
+    },
+    {
+        "job_id": "c830ddd1015bc912",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-20T08:25:34+00:00"
+    },
+    {
+        "job_id": "c830ddd1015bc912",
+        "stream": "info",
+        "message": "Proxy apply başladı. Route sayısı: 1",
+        "time": "2026-05-20T08:25:34+00:00"
+    },
+    {
+        "job_id": "c830ddd1015bc912",
+        "stream": "info",
+        "message": "Proxy apply tamamlandı.",
+        "time": "2026-05-20T08:25:34+00:00"
+    },
+    {
+        "job_id": "c830ddd1015bc912",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-20T08:25:34+00:00"
+    },
+    {
+        "job_id": "21f6691e23e26b55",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-20T08:26:13+00:00"
+    },
+    {
+        "job_id": "b4121817e99ab4da",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-20T08:26:13+00:00"
+    },
+    {
+        "job_id": "21f6691e23e26b55",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-20T08:26:13+00:00"
+    },
+    {
+        "job_id": "21f6691e23e26b55",
+        "stream": "info",
+        "message": "Veritabanı oluşturma tamamlandı.",
+        "time": "2026-05-20T08:26:13+00:00"
+    },
+    {
+        "job_id": "21f6691e23e26b55",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-20T08:26:13+00:00"
+    },
+    {
+        "job_id": "b4121817e99ab4da",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-20T08:26:13+00:00"
+    },
+    {
+        "job_id": "b4121817e99ab4da",
+        "stream": "info",
+        "message": "WordPress kurulumu tamamlandı.",
+        "time": "2026-05-20T08:26:13+00:00"
+    },
+    {
+        "job_id": "b4121817e99ab4da",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-20T08:26:13+00:00"
+    },
+    {
+        "job_id": "62e1b2f5ec73d1b9",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-20T08:27:05+00:00"
+    },
+    {
+        "job_id": "62e1b2f5ec73d1b9",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-20T08:27:05+00:00"
+    },
+    {
+        "job_id": "62e1b2f5ec73d1b9",
+        "stream": "info",
+        "message": "Plugin işlemi tamamlandı: woocommerce",
+        "time": "2026-05-20T08:27:05+00:00"
+    },
+    {
+        "job_id": "62e1b2f5ec73d1b9",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-20T08:27:05+00:00"
+    },
+    {
+        "job_id": "9b713b5ac7762d15",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-20T08:27:54+00:00"
+    },
+    {
+        "job_id": "9b713b5ac7762d15",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-20T08:27:54+00:00"
+    },
+    {
+        "job_id": "9b713b5ac7762d15",
+        "stream": "info",
+        "message": "İş işlendi: wp_staging_create",
+        "time": "2026-05-20T08:27:54+00:00"
+    },
+    {
+        "job_id": "9b713b5ac7762d15",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-20T08:27:54+00:00"
+    },
+    {
+        "job_id": "245c5d51e13a9596",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-20T08:28:13+00:00"
+    },
+    {
+        "job_id": "245c5d51e13a9596",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-20T08:28:13+00:00"
+    },
+    {
+        "job_id": "245c5d51e13a9596",
+        "stream": "info",
+        "message": "İş işlendi: wp_staging_sync_live",
+        "time": "2026-05-20T08:28:13+00:00"
+    },
+    {
+        "job_id": "245c5d51e13a9596",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-20T08:28:13+00:00"
+    },
+    {
+        "job_id": "9fe1cf372ec7e5fc",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-20T23:33:10+00:00"
+    },
+    {
+        "job_id": "21f6691e23e26b55",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-20T23:33:10+00:00"
+    },
+    {
+        "job_id": "21f6691e23e26b55",
+        "stream": "info",
+        "message": "Veritabanı oluşturma tamamlandı.",
+        "time": "2026-05-20T23:33:10+00:00"
+    },
+    {
+        "job_id": "21f6691e23e26b55",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-20T23:33:10+00:00"
+    },
+    {
+        "job_id": "9fe1cf372ec7e5fc",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-20T23:33:10+00:00"
+    },
+    {
+        "job_id": "9fe1cf372ec7e5fc",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: php-fpm \/ start",
+        "time": "2026-05-20T23:33:10+00:00"
+    },
+    {
+        "job_id": "9fe1cf372ec7e5fc",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: php-fpm \/ start",
+        "time": "2026-05-20T23:33:10+00:00"
+    },
+    {
+        "job_id": "9fe1cf372ec7e5fc",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-20T23:33:10+00:00"
+    },
+    {
+        "job_id": "359df731bad0347b",
+        "stream": "info",
+        "message": "İş kuyruğa alındı.",
+        "time": "2026-05-20T23:33:18+00:00"
+    },
+    {
+        "job_id": "359df731bad0347b",
+        "stream": "info",
+        "message": "İş worker tarafından alındı.",
+        "time": "2026-05-20T23:33:18+00:00"
+    },
+    {
+        "job_id": "359df731bad0347b",
+        "stream": "info",
+        "message": "Servis aksiyonu başladı: dns \/ start",
+        "time": "2026-05-20T23:33:18+00:00"
+    },
+    {
+        "job_id": "359df731bad0347b",
+        "stream": "info",
+        "message": "Servis aksiyonu tamamlandı: dns \/ start",
+        "time": "2026-05-20T23:33:18+00:00"
+    },
+    {
+        "job_id": "359df731bad0347b",
+        "stream": "info",
+        "message": "İş tamamlandı.",
+        "time": "2026-05-20T23:33:18+00:00"
+    }
+]

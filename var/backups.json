@@ -1,0 +1,24 @@
+[
+    {
+        "id": "a4b9d4085cf2075c",
+        "site_id": "7f3d24dd3bca2334",
+        "type": "full",
+        "created_at": "2026-05-17T02:51:23+00:00"
+    },
+    {
+        "id": "b96ad8be3b69667d",
+        "site_id": "7f3d24dd3bca2334",
+        "type": "full",
+        "created_at": "2026-05-17T02:53:20+00:00"
+    },
+    {
+        "id": "365d262c59a89c2d",
+        "site_id": "7f3d24dd3bca2334",
+        "type": "full",
+        "created_at": "2026-05-18T20:36:37+00:00",
+        "file": "\/home\/ail\/dev\/ailhost\/var\/backups\/7f3d24dd3bca2334\/365d262c59a89c2d.tar.gz",
+        "size_bytes": 141,
+        "checksum_sha256": "a5daedf7b0d267763ef6524f68c058e68c3f8333fcac7e3be24778fec7e32366",
+        "integrity_ok": true
+    }
+]

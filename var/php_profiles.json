@@ -1,0 +1,9 @@
+{
+    "7f3d24dd3bca2334": {
+        "php_version": "8.2",
+        "memory_limit": "384M",
+        "upload_max_filesize": "96M",
+        "max_execution_time": 180,
+        "updated_at": "2026-05-16T23:39:44+00:00"
+    }
+}

@@ -1,0 +1,100 @@
+name: Gemini Config
+version: 1.0.0
+schema: v1
+
+models:
+  # Günlük kodlama, chat, edit, apply için ana model
+  - name: Gemini 3 Flash
+    provider: gemini
+    model: gemini-3-flash-preview
+    apiKey: AIzaSyDJ3YfreD3aI4vw8Cy-OaD1YTmK4ceQsvQ
+    roles:
+      - chat
+      - edit
+      - apply
+    defaultCompletionOptions:
+      contextLength: 1048576
+      temperature: 0.15
+      maxTokens: 8192
+
+  # Ağır refactor, mimari, zor debugging
+  - name: Gemini 3.1 Pro
+    provider: gemini
+    model: gemini-3.1-pro-preview
+    apiKey: AIzaSyDJ3YfreD3aI4vw8Cy-OaD1YTmK4ceQsvQ
+    roles:
+      - chat
+      - edit
+      - apply
+    defaultCompletionOptions:
+      contextLength: 1048576
+      temperature: 0.1
+      maxTokens: 16384
+
+  # Agent/tool ağırlıklı işler için alternatif Pro
+  - name: Gemini 3.1 Pro Tools
+    provider: gemini
+    model: gemini-3.1-pro-preview-customtools
+    apiKey: AIzaSyDJ3YfreD3aI4vw8Cy-OaD1YTmK4ceQsvQ
+    roles:
+      - chat
+      - edit
+      - apply
+    defaultCompletionOptions:
+      contextLength: 1048576
+      temperature: 0.1
+      maxTokens: 16384
+
+  # Hızlı ve ucuz autocomplete
+  - name: Gemini 3.1 Flash-Lite Autocomplete
+    provider: gemini
+    model: gemini-3.1-flash-lite
+    apiKey: AIzaSyDJ3YfreD3aI4vw8Cy-OaD1YTmK4ceQsvQ
+    roles:
+      - autocomplete
+    autocompleteOptions:
+      debounceDelay: 350
+      maxPromptTokens: 2048
+      onlyMyCode: true
+      useCache: true
+      useImports: true
+      useRecentlyEdited: true
+    defaultCompletionOptions:
+      temperature: 0.05
+      maxTokens: 256
+
+  # Ucuz chat/edit için hızlı alternatif
+  - name: Gemini 3.1 Flash-Lite
+    provider: gemini
+    model: gemini-3.1-flash-lite
+    apiKey: AIzaSyDJ3YfreD3aI4vw8Cy-OaD1YTmK4ceQsvQ
+    roles:
+      - chat
+      - edit
+      - apply
+    defaultCompletionOptions:
+      contextLength: 1048576
+      temperature: 0.15
+      maxTokens: 4096
+
+context:
+  - provider: currentFile
+  - provider: file
+  - provider: code
+  - provider: diff
+  - provider: terminal
+  - provider: problems
+  - provider: codebase
+  - provider: folder
+  - provider: search
+    params:
+      maxResults: 100
+  - provider: tree
+  - provider: repo-map
+    params:
+      includeSignatures: false
+
+rules:
+  - Yanıtları kısa, uygulanabilir ve kod odaklı ver.
+  - Gereksiz açıklama yerine doğrudan dosya yolu, komut ve patch öner.
+  - Kod değişikliklerinde mevcut proje yapısını koru.

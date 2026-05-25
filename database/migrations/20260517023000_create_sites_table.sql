@@ -1,0 +1,12 @@
+CREATE TABLE IF NOT EXISTS sites (
+    id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    site_uid VARCHAR(32) NOT NULL UNIQUE,
+    domain VARCHAR(253) NOT NULL UNIQUE,
+    owner_id BIGINT UNSIGNED NULL,
+    document_root VARCHAR(255) NOT NULL,
+    web_server VARCHAR(32) NOT NULL DEFAULT 'nginx',
+    status VARCHAR(32) NOT NULL DEFAULT 'provisioning',
+    server_ip VARCHAR(45) NOT NULL,
+    created_at DATETIME NOT NULL,
+    updated_at DATETIME NOT NULL
+);

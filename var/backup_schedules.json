@@ -1,0 +1,11 @@
+{
+    "7f3d24dd3bca2334": {
+        "site_id": "7f3d24dd3bca2334",
+        "enabled": true,
+        "frequency": "daily",
+        "hour": 2,
+        "keep_last": 3,
+        "last_run_at": "2026-05-17T02:53:20+00:00",
+        "updated_at": "2026-05-17T02:53:20+00:00"
+    }
+}

@@ -1,0 +1,11 @@
+ 3600
+@   IN SOA ns1.ornek-test-01.com. admin.ornek-test-01.com. (
+        2026051701
+        3600
+        900
+        604800
+        86400
+)
+@   IN NS  ns1.ornek-test-01.com.
+@   IN A   95.70.159.147
+www IN A   95.70.159.147
